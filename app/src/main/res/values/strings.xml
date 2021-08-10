@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Letz Track</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="login_button_text">LogIn</string>
+    <string name="logIn_password">Password</string>
+    <string name="forgot_password_logIn">Forgot Password?</string>
+    <string name="username_logIn_textView">Username</string>
+    <string name="register_title">Register</string>
+    <string name="register_name">Name</string>
+    <string name="register_userName">Username</string>
+    <string name="register_password">Password</string>
+    <string name="register_confirmPassword">Confirm Password</string>
+    <string name="register_spinnerAnswer">Answer</string>
+    <string name="register_terms_checkBox">Accept all terms.</string>
+    <string name="register_button">Register</string>
+    <string name="register_loginText">Have a account?</string>
+    <string name="register_login_button">Login</string>
+
+    //Spinner
+    <string-array name="spinner_v1">
+        <item>What primary school did you attend?</item>
+        <item>In what town or city did your parents meet?</item>
+        <item>What school did you attend for sixth grade?</item>
+        <item>What is the name of your favourite childhood friend?</item>
+    </string-array>
+
+
+    //track_home
+    <string name="letz_track_title">Letz Track</string>
+
+
+    //Settings
+    <string name="settings_title">Options</string>
+    <string name="profile_title">Profile</string>
+    <string name="editprofile_button">Edit Profile</string>
+    <string name="about">About</string>
+    <string name="log_out">Log Out</string>
+    <string name="edit_profile">Edit Profile</string>
+
+</resources>
